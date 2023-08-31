@@ -15,5 +15,7 @@ Analyzing Agriculture in India and making strategic decisions based on it accord
 
 5. We have also added the IBM Courses Certifications with our names on the filenames.
 
-6. Files related to the Web integration of the solution have also been added such as .html and .py files 
+6. Files related to the Web integration of the solution have also been added such as .html and .py files
+
+7. PDF files of dashboards and story have also been uploaded.
     
