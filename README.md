@@ -14,4 +14,6 @@ Analyzing Agriculture in India and making strategic decisions based on it accord
          Public Drive Link: https://drive.google.com/drive/folders/1dieYNTl3-_GN9gc2_HckvTbaQnG9U4Dq?usp=sharing
 
 5. We have also added the IBM Courses Certifications with our names on the filenames.
+
+6. Files related to the Web integration of the solution have also been added such as .html and .py files 
     
